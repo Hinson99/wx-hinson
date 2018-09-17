@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "pages/introduce/index",
+    "pages/introduce/index2"
+  ],
+  "window": {
+    "navigationBarTitleText": "自我介绍",
+    "enablePullDownRefresh": true,
+    "navigationBarBackgroundColor":"#FF0000"
+  },
+  "tabBar":{
+    "selectedColor": "#FF0000",
+    "borderStyle": "#FF0000",
+    "list":[{
+      "pagePath":"pages/introduce/index",
+      "text":"home"
+    },{
+      "pagePath":"pages/introduce/index2",
+      "text":"index2"
+    }]
+  }
+  
+}
